@@ -1,0 +1,52 @@
+cities = {
+    "Lagos" : {
+        "latitude": 6.4541
+        "longitude": 3.3947
+        "timezone": "auto"
+    },
+    "Accra" : {
+        "latitude": 5.556
+        "longitude": -0.1969
+        "timezone": "auto"
+    },
+    "Amsterdam" : {
+        "latitude": 52.374
+        "longitude": 4.8897
+        "timezone": "auto"
+    },
+    "London" : {
+        "latitude": 51.5085
+        "longitude": -0.1257
+        "timezone": "auto"
+    },
+    "Seoul" : {
+        "latitude": 37.566
+        "longitude": 126.9784
+        "timezone": "auto"
+    },
+    "Sydney" : {
+        "latitude": -33.8678
+        "longitude": 151.2073
+        "timezone": "auto"
+    },
+    "Johannesburg" : {
+        "latitude": -26.2023
+        "longitude": 28.0436
+        "timezone": "auto"
+    },
+    "Los Angeles" : {
+        "latitude": 34.0522
+        "longitude": -118.2437
+        "timezone": "auto"
+    },
+    "Toronto" : {
+        "latitude": 43.7064
+        "longitude": -79.3986
+        "timezone": "auto"
+    },
+    "Beijing" : {
+        "latitude": 39.9075
+        "longitude": 116.3972
+        "timezone": "auto"
+    },
+}
